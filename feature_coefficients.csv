@@ -1,0 +1,15 @@
+feature,coefficient
+InternetService_No,0.5413657512992025
+PaymentMethod_Electronic check,0.4165566631847301
+TechSupport_Yes,0.4019750835647969
+InternetService_Fiber optic,0.30966053594717474
+PaperlessBilling_Yes,0.2299480304999129
+MonthlyCharges,0.019316224271959517
+PaymentMethod_Mailed check,-0.05606330278034966
+OnlineSecurity_Yes,-0.07543566879600433
+tenure,-0.10307169961746446
+StreamingTV_Yes,-0.20038431579966476
+SeniorCitizen,-0.20224419088467335
+PaymentMethod_Credit card,-0.20527962486727053
+Contract_Two year,-1.0358935318708582
+Contract_One year,-1.3155171575311637

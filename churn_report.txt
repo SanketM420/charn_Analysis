@@ -1,0 +1,11 @@
+Churn Analysis Report
+-----------------------
+Accuracy: 0.5960
+Precision: 0.4407
+Recall: 0.2766
+F1: 0.3399
+ROC AUC: 0.5845
+
+Confusion Matrix:
+[[123  33]
+ [ 68  26]]
